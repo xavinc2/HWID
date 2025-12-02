@@ -1,2 +1,1 @@
 # HWID
-onur: kimselerbasedemez35
